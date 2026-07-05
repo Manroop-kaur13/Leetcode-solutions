@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0204-count-primes) |
 | [1901-find-a-peak-element-ii](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Search
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -38,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0078-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
