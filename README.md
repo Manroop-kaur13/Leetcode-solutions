@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0204-count-primes) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0231-power-of-two) |
 ## Backtracking
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
