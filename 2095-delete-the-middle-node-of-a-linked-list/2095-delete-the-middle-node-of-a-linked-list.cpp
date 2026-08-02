@@ -30,9 +30,7 @@ public:
             remove=remove->next;
         }
         ListNode* temp=remove->next;
-        if(temp->next){
-            
-            remove->next=temp->next;}
+        remove->next=temp->next;
         delete(temp);
         return head;
     }
