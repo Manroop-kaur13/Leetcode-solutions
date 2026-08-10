@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0078-subsets](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0204-count-primes) |
@@ -109,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0148-sort-list) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
