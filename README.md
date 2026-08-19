@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
