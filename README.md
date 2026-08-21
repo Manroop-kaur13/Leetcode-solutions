@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0204-count-primes) |
+| [0496-next-greater-element-i](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1901-find-a-peak-element-ii](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Search
 |  |
@@ -89,12 +90,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -129,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
