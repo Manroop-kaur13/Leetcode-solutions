@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0496-next-greater-element-i](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [1901-find-a-peak-element-ii](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Search
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Manroop-kaur13/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
